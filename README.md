@@ -1,1 +1,1 @@
-# lock-free-hash_table
+# lock_free_hash_table
